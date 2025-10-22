@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teraleads-react-app/static/css/main.5a35bb3e.css",
+    "main.js": "/teraleads-react-app/static/js/main.fbbd1936.js",
+    "static/js/453.d7446e4a.chunk.js": "/teraleads-react-app/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/teraleads-react-app/index.html",
+    "main.5a35bb3e.css.map": "/teraleads-react-app/static/css/main.5a35bb3e.css.map",
+    "main.fbbd1936.js.map": "/teraleads-react-app/static/js/main.fbbd1936.js.map",
+    "453.d7446e4a.chunk.js.map": "/teraleads-react-app/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a35bb3e.css",
+    "static/js/main.fbbd1936.js"
+  ]
+}
